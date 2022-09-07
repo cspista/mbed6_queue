@@ -12,7 +12,7 @@ using namespace std::chrono_literals;
 // 2) Call the provided function once (after the specified period)
 // 3) Call the provided function every specified period
 //
-// Expected output:
+// Expected output in a terminal window:
 //
 // called immediately
 // called every 1 seconds
